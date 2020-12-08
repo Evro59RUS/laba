@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "urnbam+hYTx1ziecRDZDEYN5+Ja2b29VmlPLSdCY2uCFQguYE7z7+Bix3IBV4fEaewUjAhRkAJz6QOWoeFF0rA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Professional\\source\\repos\\-\\перебор перестановок\\перебор перестановок\\перебор перестановок.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Professional\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Professional\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Professional\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\Professional\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Professional\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\Professional\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
